@@ -5,7 +5,8 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Hotel.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Hotel.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Microservice.iml" filepath="$PROJECT_DIR$/.idea/Microservice.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/RatingService.main.iml" filepath="$PROJECT_DIR$/.idea/modules/RatingService.main.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/user.main.iml" filepath="$PROJECT_DIR$/.idea/modules/user.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/USER-SERVICE.main.iml" filepath="$PROJECT_DIR$/.idea/modules/USER-SERVICE.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/user.iml" filepath="$PROJECT_DIR$/.idea/modules/user.iml" />
     </modules>
   </component>
 </project>
