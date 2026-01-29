@@ -29,6 +29,13 @@ ext {
 }
 
 dependencies {
+
+	// Source: https://mvnrepository.com/artifact/io.github.resilience4j/resilience4j-spring-boot2
+	implementation("io.github.resilience4j:resilience4j-spring-boot2:2.3.0")
+
+//	health
+	implementation 'org.springframework.boot:spring-boot-starter-actuator'
+
 	implementation 'org.springframework.boot:spring-boot-starter-logging'
 //	sprint cloud config server dependency
 	implementation 'org.springframework.cloud:spring-cloud-starter-config'
